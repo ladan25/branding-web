@@ -1,0 +1,17 @@
+{
+ "name": "new",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "e80f9dc5-1509-6771-d13c-757cb6f3236d",
+   "pageId": "e80f9dc5-1509-6771-d13c-757cb6f3236d",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "7e0c10ec-588d-55c0-6564-f1f8b438ede5",
+   "pageId": "7e0c10ec-588d-55c0-6564-f1f8b438ede5",
+   "type": "page"
+  }
+ ]
+}

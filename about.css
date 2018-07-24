@@ -1,0 +1,67 @@
+body{
+  margin:0;
+  padding:0;
+    
+   background-image: url("https://media.gq.com/photos/5aa80b64ba46c5799659c65c/16:9/w_1280/Wes-World-Wes%20Anderson-01.jpg");
+
+  
+}
+
+#navbar{
+  background-color: tan;
+  font-size: 40px;
+  font-weight: 600;
+  text-align:center;
+  color:black;
+}
+#nav{
+  list-style-type: none;
+  padding-left:0;
+  margin-top:0;
+}
+
+#nav li{
+  display: inline-block;
+  line-height: 4;
+}
+
+#nav li a{
+  color:black;
+  text-decoration:none;
+  padding:0 20px;
+  display:inline-block;
+  transition:all .9s;
+}
+
+#nav li a:hover{
+    color:orange;
+    background-color:white;
+    transition:all .9s;
+}
+
+h1{
+   color:#373F47;
+    font-size: 60px; 
+    
+}
+
+h1:hover{
+    color:orange;
+    background-color:#3A7CA5;
+    transition:all .9s;
+}
+
+p1:hover {
+    color:orange;
+    background-color:#3A7CA5;
+    transition:all .9s;
+    
+}
+
+
+p1{
+    color:#373F47;
+    font-size: 30px;
+}
+
+

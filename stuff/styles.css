@@ -1,0 +1,39 @@
+
+body{
+  margin:0;
+  padding:0;
+  
+}
+
+#navbar{
+  background-color: tan;
+  font-size: 20px;
+  font-weight: 600;
+}
+#nav{
+  list-style-type: none;
+  padding-left:0;
+  margin-top:0;
+}
+
+#nav li{
+  display: inline-block;
+  line-height: 4;
+}
+
+#nav li a{
+  color:blue;
+  text-decoration:none;
+  padding:0 20px;
+  display:inline-block;
+  transition:all .9s;
+}
+
+#nav li a:hover{
+    color:orange;
+    background-color:white;
+    transition:all .9s;
+}
+
+
+
